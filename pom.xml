@@ -54,6 +54,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>springboot-sample</finalName>
 	</build>
 
 </project>
