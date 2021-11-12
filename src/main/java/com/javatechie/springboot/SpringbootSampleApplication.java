@@ -35,11 +35,5 @@ public class SpringbootSampleApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootSampleApplication.class, args);
     }
-//    echo "# github-workflow-demo" >> README.md
-//    git init
-//    git add README.md
-//    git commit -m "first commit"
-//    git branch -M main
-//    git remote add origin https://github.com/basanta-spring-boot/github-workflow-demo.git
-//    git push -u origin main
+
 }
